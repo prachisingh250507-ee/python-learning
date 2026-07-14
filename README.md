@@ -19,15 +19,7 @@ This repository will include:
 * Practice exercises
 * Mini projects
 * Problem-solving challenges
-* Learning notes (when applicable)
 
-## 🚀 Projects
-
-| Project          | Description                                                                                       | Status      |
-| ---------------- | ------------------------------------------------------------------------------------------------- | ----------- |
-| Basic Calculator | Performs basic arithmetic operations such as addition, subtraction, multiplication, and division. | ✅ Completed |
-
-More projects will be added as I continue learning.
 
 ## 🛠️ Technologies Used
 
